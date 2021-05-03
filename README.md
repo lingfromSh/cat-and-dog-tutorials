@@ -6,7 +6,7 @@ Use an alexnet to solve a bi-classification problem
 
 You could run `train.py` to train the model.
 
-After 100 epoches, this model could got more than 90% to give a correct classification. 
+After 100 epoches, this model could reach more than 90% to give a correct classification. 
 
 ## Predicting
 
