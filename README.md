@@ -15,3 +15,11 @@ You could run `predict.py` and set the input image by flag `-f`. After a few sec
 ## Testing
 
 You could run `test.py` to check whether this model is overfitting training resources.
+
+## About training and testing data
+
+You could download cat&dog dataset from `kaggle` or elsewhere.
+
+## Some advices
+
+For having a more powerful ability, You could add some more preprocesses to generate nonstandard pics.
